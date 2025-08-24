@@ -1,4 +1,4 @@
-//unary operator
+//unary operator that means it requires only 1 operand.
 public class P04_operator1 {
     public static void main(String[] args) {
         
